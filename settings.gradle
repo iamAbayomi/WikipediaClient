@@ -1,0 +1,2 @@
+include ':app', ':lightuitheme'
+rootProject.name='WikipediaClient'
